@@ -1,0 +1,20 @@
+﻿Este proyecto tiene la clase Factura.cs, En la que se puede apreciar que la comisión para una factura es del 1%.
+
+Se presenta un nuevo requerimiento indicando que la comisión para facturas en Argentina se mantiene, 
+pero para las facturas de Colombia pasa a ser un 2,5% y en el futuro posiblemente existan distintos porcentajes para otros países. 
+
+Un programador resuelve el problema agregando la clase FacturaColombia.cs para el caso de Colombia. 
+
+Por favor, responda las siguientes preguntas:
+- ¿Le parece una buena solución?
+Si bien parece -en principio- resolver el problema, la solución no permite tratar a todas las Facturas de un mismo modo, lo que presenta problemas de escalabilidad.
+
+- ¿Qué ventajas le encuentra? 
+Permitiría una evaluación particular a cada factura, considerando que podrían existir legislaciones distintas que hagan necesario un tratamiento distinto.
+
+- ¿Y qué desventajas? 
+Dificulta el trato en capas superiores, al no poder tratar a todas las facturas de manera polimórfica, 
+
+- ¿Se le ocurre alguna solución alternativa?
+Para respetar la solución actual en lo que concierne a la existencia de clases distintas para facturas de cada país, podría crearse una clase abstracta Fábrica, con los mismos métodos, y agregando la comisión como atributo de clase, de la cual heredarían las clases correspondientes a facturas de cada país.
+Adjunto la solución con un ejemplo en el Program.cs

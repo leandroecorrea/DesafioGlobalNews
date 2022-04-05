@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="js/controller.js"></script>
+    <head>
+
+    <body>
+        <p>
+        <h4>
+            El fin de este ejercicio es que, mediante instrucciones <i>AngularJS</i> a medida que se ingresa texto en el
+            <i>input</i> tambi&eacute;n vaya apareciendo en el <i>header</i> que está continuaci&oacute;n.
+        </h4>
+        </p>
+
+        <div ng-app="bindingApp">
+            <div ng-controller="bindingController">
+                <p>Ingrese un texto en la siguiente caja:</p>
+                <p>Texto : <input type="text" placeholder="Ingrese texto aqu&iacute;" ng-model="bindedText"></p> <!-- COMPLETAR esta línea -->
+                <h1>El texto es: {{bindedText}}</h1> <!-- COMPLETAR esta línea -->
+            </div>
+        </div>
+    </body>
+
+</html>

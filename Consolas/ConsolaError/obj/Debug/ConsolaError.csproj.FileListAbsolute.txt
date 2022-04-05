@@ -1,0 +1,28 @@
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\bin\Debug\Buddies.txt
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\bin\Debug\ConsolaError.exe
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\bin\Debug\ConsolaError.pdb
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\obj\Debug\ConsolaError.csprojAssemblyReference.cache
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\obj\Debug\ConsolaError.csproj.CoreCompileInputs.cache
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\obj\Debug\ConsolaError.exe
+K:\Mi unidad\Selección\PruebasIngreso\EXAMEN-INGRESO\Consolas\ConsolaError\obj\Debug\ConsolaError.pdb
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\bin\Debug\Buddies.txt
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\bin\Debug\ConsolaError.exe
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\bin\Debug\ConsolaError.pdb
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\obj\Debug\ConsolaError.csprojAssemblyReference.cache
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\obj\Debug\ConsolaError.csproj.CoreCompileInputs.cache
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\obj\Debug\ConsolaError.exe
+K:\Mi unidad\Selección\PruebasIngreso\Ejercicios-Ingreso\Consolas\ConsolaError\obj\Debug\ConsolaError.pdb
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\bin\Debug\Buddies.txt
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\bin\Debug\ConsolaError.exe
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\bin\Debug\ConsolaError.pdb
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\obj\Debug\ConsolaError.csprojAssemblyReference.cache
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\obj\Debug\ConsolaError.csproj.CoreCompileInputs.cache
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\obj\Debug\ConsolaError.exe
+K:\Mi unidad\Busquedas\PruebasIngreso\Ejercicios-Ingreso\Ejercicios-Desarrollo\Consolas\ConsolaError\obj\Debug\ConsolaError.pdb
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\bin\Debug\Buddies.txt
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\bin\Debug\ConsolaError.exe
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\bin\Debug\ConsolaError.pdb
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\obj\Debug\ConsolaError.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\obj\Debug\ConsolaError.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\obj\Debug\ConsolaError.exe
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaError\obj\Debug\ConsolaError.pdb

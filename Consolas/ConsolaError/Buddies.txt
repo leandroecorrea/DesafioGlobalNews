@@ -1,0 +1,6 @@
+﻿1;Juan;32
+3;María;22
+2;José;28
+4;Florencia;42
+5;Luis;60
+8;Vanesa;33

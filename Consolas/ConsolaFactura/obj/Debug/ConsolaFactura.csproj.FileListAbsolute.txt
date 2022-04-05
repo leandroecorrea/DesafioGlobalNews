@@ -1,0 +1,6 @@
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaFactura\bin\Debug\ConsolaFactura.exe
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaFactura\bin\Debug\ConsolaFactura.pdb
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.exe
+C:\Users\leand\Documents\Globalnews\Consolas\ConsolaFactura\obj\Debug\ConsolaFactura.pdb

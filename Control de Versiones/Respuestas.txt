@@ -1,0 +1,10 @@
+Pregunta 1: opción 3 (comando checkout)
+Pregunta 2: opción 4 (comando commit)
+Pregunta 3: opción 1 (add y luego commit)
+Pregunta 4: opción 2 (update)
+Pregunta 5: Comando git init
+Pregunta 6:
+Git fetch obtiene la información de los commits que no existen en el repo local, sin realizar merge entre aquellos y este.
+En cambio, git pull, sí realiza un merge entre los cambios existentes en el remoto y el local.
+Pregunta 7: 
+Nos permite ir dividiendo los commits en distintas partes para así tener un mejor control y manejo de los cambios que se efectuaron, para así facilitar su integración.
